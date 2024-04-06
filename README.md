@@ -5,6 +5,9 @@ This was copied from something I had done for an earlier assignment.
 I migrated this to a codespace in case my project partners wanted to see
 what the sample data generator looked like/make changes.
 
+**Documentation**
+ - [Faker](https://faker.readthedocs.io/en/stable/index.html)
+
 ## Output - Postgresql inserts to add data to our sample database.
 These are unoptomized inserts. FKs are searched in each row - yeah I could optimize, 
 but these are run once... so not a priority.
